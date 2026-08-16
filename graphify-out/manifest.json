@@ -1,0 +1,116 @@
+{
+  "STB-COMMAND-CENTER/_config/supabase/rls_policies.sql": {
+    "mtime": 1786860552.831517,
+    "seen": 1786861234.3255568,
+    "ast_hash": "ab4a3cf148ee11b768dfeb2c1e27b0cc",
+    "semantic_hash": "ab4a3cf148ee11b768dfeb2c1e27b0cc"
+  },
+  "STB-COMMAND-CENTER/_config/supabase/schema.sql": {
+    "mtime": 1786860552.8319402,
+    "seen": 1786861234.3255599,
+    "ast_hash": "011b69735937493330a92ba3ec0c91ed",
+    "semantic_hash": "011b69735937493330a92ba3ec0c91ed"
+  },
+  "STB-COMMAND-CENTER/tools/agent-reach-fetch.py": {
+    "mtime": 1786860552.8324418,
+    "seen": 1786861234.3255608,
+    "ast_hash": "21fcb877d19a55773dcaf5503ea71f10",
+    "semantic_hash": "21fcb877d19a55773dcaf5503ea71f10"
+  },
+  "STB-COMMAND-CENTER/tools/supabase-migrate.sh": {
+    "mtime": 1786860552.834887,
+    "seen": 1786861234.3255615,
+    "ast_hash": "cc201996b02f48202f94560845f83729",
+    "semantic_hash": "cc201996b02f48202f94560845f83729"
+  },
+  "STB-COMMAND-CENTER-Claude-Code-Handoff.md": {
+    "mtime": 1786860552.827517,
+    "seen": 1786861234.3255625,
+    "ast_hash": "9467e5f15eb42b308f26e295407cff07",
+    "semantic_hash": "9467e5f15eb42b308f26e295407cff07"
+  },
+  "STB-COMMAND-CENTER/CLAUDE.md": {
+    "mtime": 1786860552.827517,
+    "seen": 1786861234.3255632,
+    "ast_hash": "0dbee18ef4fa0522fc61146988b29590",
+    "semantic_hash": "0dbee18ef4fa0522fc61146988b29590"
+  },
+  "STB-COMMAND-CENTER/CONTEXT.md": {
+    "mtime": 1786860552.8296406,
+    "seen": 1786861234.3255644,
+    "ast_hash": "61039850ea29ccd6241d9571dae8ec49",
+    "semantic_hash": "61039850ea29ccd6241d9571dae8ec49"
+  },
+  "STB-COMMAND-CENTER/README.md": {
+    "mtime": 1786860552.8296406,
+    "seen": 1786861234.3255708,
+    "ast_hash": "a7a407d7accf4d11bff49046243d5ac7",
+    "semantic_hash": "a7a407d7accf4d11bff49046243d5ac7"
+  },
+  "STB-COMMAND-CENTER/_config/design-system/ux-copy.md": {
+    "mtime": 1786860552.8306026,
+    "seen": 1786861234.3255768,
+    "ast_hash": "c11c13a558261d92aca2a5a9ce449b20",
+    "semantic_hash": "c11c13a558261d92aca2a5a9ce449b20"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/EVIDENCE-OVER-VIBES.md": {
+    "mtime": 1786860552.8306026,
+    "seen": 1786861234.3255782,
+    "ast_hash": "024a6caefec4bb2d316fdc0bbbb6fe5d",
+    "semantic_hash": "024a6caefec4bb2d316fdc0bbbb6fe5d"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/ONE-ROOM-RULE.md": {
+    "mtime": 1786860552.8312123,
+    "seen": 1786861234.325579,
+    "ast_hash": "295ad7ea9f23cf4923dc92b2c85ebfa4",
+    "semantic_hash": "295ad7ea9f23cf4923dc92b2c85ebfa4"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/CONTEXT.md": {
+    "mtime": 1786860552.8324418,
+    "seen": 1786861234.32558,
+    "ast_hash": "1ad945ad7961fa641556ea60dc2526cf",
+    "semantic_hash": "1ad945ad7961fa641556ea60dc2526cf"
+  },
+  "STB-COMMAND-CENTER/stages/02_pwa_shell/CONTEXT.md": {
+    "mtime": 1786860552.8324418,
+    "seen": 1786861234.3255804,
+    "ast_hash": "1785ad6d5fd44f9a1bb9f496a562a9e0",
+    "semantic_hash": "1785ad6d5fd44f9a1bb9f496a562a9e0"
+  },
+  "STB-COMMAND-CENTER/stages/03_today_screen/CONTEXT.md": {
+    "mtime": 1786860552.8324418,
+    "seen": 1786861234.325581,
+    "ast_hash": "ed12dffe9a36d03d852dcf877e855eba",
+    "semantic_hash": "ed12dffe9a36d03d852dcf877e855eba"
+  },
+  "STB-COMMAND-CENTER/stages/04_sprint_offer/CONTEXT.md": {
+    "mtime": 1786860552.8324418,
+    "seen": 1786861234.3255816,
+    "ast_hash": "8a84ac955752d40de018126013ed3f9d",
+    "semantic_hash": "8a84ac955752d40de018126013ed3f9d"
+  },
+  "STB-COMMAND-CENTER/stages/05_claude_ai_layer/CONTEXT.md": {
+    "mtime": 1786860552.8324418,
+    "seen": 1786861234.3255823,
+    "ast_hash": "43ebb4f7136cdc791d6440c50168d2d3",
+    "semantic_hash": "43ebb4f7136cdc791d6440c50168d2d3"
+  },
+  "STB-COMMAND-CENTER/_config/design-system/tokens.md": {
+    "mtime": 1786860552.8301215,
+    "seen": 1786861234.3255827,
+    "ast_hash": "2a5bc8e22be17bdbfb1b9959fc8a138e",
+    "semantic_hash": "2a5bc8e22be17bdbfb1b9959fc8a138e"
+  },
+  "Folder Structure and Architecture.pdf": {
+    "mtime": 1786860552.827517,
+    "seen": 1786861234.3255835,
+    "ast_hash": "0f8e220072b8e3c6c00f74c633b76125",
+    "semantic_hash": "0f8e220072b8e3c6c00f74c633b76125"
+  },
+  "stb_command_center_ia.png": {
+    "mtime": 1786860552.843517,
+    "seen": 1786861234.325584,
+    "ast_hash": "32a5d2a0be9b6eab23df0d3b4ceb7b5b",
+    "semantic_hash": "32a5d2a0be9b6eab23df0d3b4ceb7b5b"
+  }
+}

@@ -1,0 +1,13 @@
+# Graphify scratch — regenerated on every `/graphify .` run
+graphify-out/.graphify_*
+graphify-out/cache/
+graphify-out/cost.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies / build output
+node_modules/
+dist/
