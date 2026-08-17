@@ -1,25 +1,25 @@
 {
   "STB-COMMAND-CENTER/_config/supabase/rls_policies.sql": {
-    "mtime": 1786860552.831517,
-    "seen": 1786861234.3255568,
-    "ast_hash": "ab4a3cf148ee11b768dfeb2c1e27b0cc",
-    "semantic_hash": "ab4a3cf148ee11b768dfeb2c1e27b0cc"
+    "mtime": 1786947162.9637809,
+    "seen": 1786947655.2168713,
+    "ast_hash": "a7dede4b538e76c3a0df84a7873abf15",
+    "semantic_hash": "a7dede4b538e76c3a0df84a7873abf15"
   },
   "STB-COMMAND-CENTER/_config/supabase/schema.sql": {
     "mtime": 1786860552.8319402,
-    "seen": 1786861234.3255599,
+    "seen": 1786947655.216874,
     "ast_hash": "011b69735937493330a92ba3ec0c91ed",
     "semantic_hash": "011b69735937493330a92ba3ec0c91ed"
   },
   "STB-COMMAND-CENTER/tools/agent-reach-fetch.py": {
     "mtime": 1786860552.8324418,
-    "seen": 1786861234.3255608,
+    "seen": 1786947655.21688,
     "ast_hash": "21fcb877d19a55773dcaf5503ea71f10",
     "semantic_hash": "21fcb877d19a55773dcaf5503ea71f10"
   },
   "STB-COMMAND-CENTER/tools/supabase-migrate.sh": {
     "mtime": 1786860552.834887,
-    "seen": 1786861234.3255615,
+    "seen": 1786947655.216881,
     "ast_hash": "cc201996b02f48202f94560845f83729",
     "semantic_hash": "cc201996b02f48202f94560845f83729"
   },
@@ -95,12 +95,6 @@
     "ast_hash": "43ebb4f7136cdc791d6440c50168d2d3",
     "semantic_hash": "43ebb4f7136cdc791d6440c50168d2d3"
   },
-  "STB-COMMAND-CENTER/_config/design-system/tokens.md": {
-    "mtime": 1786860552.8301215,
-    "seen": 1786861234.3255827,
-    "ast_hash": "2a5bc8e22be17bdbfb1b9959fc8a138e",
-    "semantic_hash": "2a5bc8e22be17bdbfb1b9959fc8a138e"
-  },
   "Folder Structure and Architecture.pdf": {
     "mtime": 1786860552.827517,
     "seen": 1786861234.3255835,
@@ -112,5 +106,83 @@
     "seen": 1786861234.325584,
     "ast_hash": "32a5d2a0be9b6eab23df0d3b4ceb7b5b",
     "semantic_hash": "32a5d2a0be9b6eab23df0d3b4ceb7b5b"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/output/001_create_tables.sql": {
+    "mtime": 1786861444.264942,
+    "seen": 1786947655.216875,
+    "ast_hash": "cf25c6ab7b62eea82bbe6c0d5b0f836c",
+    "semantic_hash": "cf25c6ab7b62eea82bbe6c0d5b0f836c"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/output/002_rls_policies.sql": {
+    "mtime": 1786861483.493002,
+    "seen": 1786947655.216876,
+    "ast_hash": "d4dceed07958604073760ae14e06cb67",
+    "semantic_hash": "d4dceed07958604073760ae14e06cb67"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/output/003_functions.sql": {
+    "mtime": 1786861528.827575,
+    "seen": 1786947655.2168767,
+    "ast_hash": "af481e91b701db5e80f6100457b2e056",
+    "semantic_hash": "af481e91b701db5e80f6100457b2e056"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/output/004_indexes.sql": {
+    "mtime": 1786861542.411067,
+    "seen": 1786947655.2168775,
+    "ast_hash": "676fb68f3ad0d82c6942981183116b5e",
+    "semantic_hash": "676fb68f3ad0d82c6942981183116b5e"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/output/seed.sql": {
+    "mtime": 1786861598.2056513,
+    "seen": 1786947655.2168791,
+    "ast_hash": "ffc5aa96c72bb7ab6c38d238fbc861ed",
+    "semantic_hash": "ffc5aa96c72bb7ab6c38d238fbc861ed"
+  },
+  "STB-COMMAND-CENTER/_config/brand-voice/guidelines.md": {
+    "mtime": 1786947051.6660502,
+    "seen": 1786947655.2168822,
+    "ast_hash": "8a3c1a09c4b141417bb3b83ae737586e",
+    "semantic_hash": "8a3c1a09c4b141417bb3b83ae737586e"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/14-POINT-BLEED-MAP.md": {
+    "mtime": 1786945132.1577685,
+    "seen": 1786947655.216883,
+    "ast_hash": "c550cc0194f35133f96cd78b83ca99cf",
+    "semantic_hash": "c550cc0194f35133f96cd78b83ca99cf"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/NOTEBOOKLM-INTELLIGENCE-SYNTHESIS.md": {
+    "mtime": 1786945132.1579595,
+    "seen": 1786947655.2168834,
+    "ast_hash": "fe32990e4688b08aa79b57dfc01d785b",
+    "semantic_hash": "fe32990e4688b08aa79b57dfc01d785b"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/PUBLIC-LEXICON-TRANSLATION-LAYER.md": {
+    "mtime": 1786945132.1578267,
+    "seen": 1786947655.2168841,
+    "ast_hash": "2e3a9603fc1621d93ba2a25e78589e2e",
+    "semantic_hash": "2e3a9603fc1621d93ba2a25e78589e2e"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/STABILITY-SEEKER-ARCHETYPE.md": {
+    "mtime": 1786947051.6619322,
+    "seen": 1786947655.216885,
+    "ast_hash": "24396e4fd2ec0489009903ac272f17a8",
+    "semantic_hash": "24396e4fd2ec0489009903ac272f17a8"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/TRIP-WIRE-SYSTEM.md": {
+    "mtime": 1786947051.664049,
+    "seen": 1786947655.2168858,
+    "ast_hash": "c6b0d17534881e653c5862285b5c9940",
+    "semantic_hash": "c6b0d17534881e653c5862285b5c9940"
+  },
+  "STB-COMMAND-CENTER/_config/doctrine/WORLDVIEW-EXTRACTION-INTELLIGENCE-AXIOM.md": {
+    "mtime": 1786945132.157879,
+    "seen": 1786947655.2168865,
+    "ast_hash": "98b655df119eb80f0b37adc5576edd23",
+    "semantic_hash": "98b655df119eb80f0b37adc5576edd23"
+  },
+  "STB-COMMAND-CENTER/stages/01_supabase_schema/output/SCHEMA_SUMMARY.md": {
+    "mtime": 1786861907.6635976,
+    "seen": 1786947655.216887,
+    "ast_hash": "878b2a9e3ef3888c082913faf299720c",
+    "semantic_hash": "878b2a9e3ef3888c082913faf299720c"
   }
 }
